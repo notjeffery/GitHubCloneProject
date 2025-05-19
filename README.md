@@ -1,1 +1,1 @@
-This is the description of my repo
+Practicing branching and conflict resolution
